@@ -13,4 +13,5 @@
 🎓 Graduated in Software Engineering from PUC-PR.
 
 🔍 Currently seeking challenging new opportunities to contribute to innovative projects.
+
 Let's build something awesome together! 😊
