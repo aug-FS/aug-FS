@@ -12,6 +12,6 @@
 
 🎓 Graduated in Software Engineering from PUC-PR.
 
-🔍 Currently seeking challenging new opportunities to contribute to innovative projects.
+🔍 Currently studying elixir,phoenix,liveView.
 
 Let's build something awesome together! 😊
