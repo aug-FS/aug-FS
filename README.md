@@ -1,17 +1,32 @@
-👋 Hi, I'm Augusto Foss Silva!
+# 👋 Hi, I'm Augusto Foss Silva!
 
-🚀 Full Stack Developer with 2 years and 9 months of experience in IT.
+🚀 I'm a **Mid-Level Full Stack Developer** with experience building and maintaining web applications, working across frontend, backend, integrations, databases, and deployment processes.
 
-💻 Solid technical skills in Java, relational and non-relational databases, agile methodologies (Scrum/Kanban), Git, HTML/CSS, PHP, and more.
+## 💻 Technical Experience
 
-🎨 Demonstrated my effective communication, creativity, and teamwork skills.
+* **Backend:** PHP, Laravel, Java, Node.js and Python
+* **Frontend:** JavaScript, TypeScript, Vue.js, React, Angular, Quasar, HTML and CSS
+* **APIs and integrations:** REST, GraphQL, webhooks and educational platforms
+* **Databases and caching:** MySQL, SQL Server, SQLite and Redis
+* **DevOps:** Docker, Git, GitHub Actions, Azure DevOps and CI/CD
+* **Practices:** Scrum, Kanban, code review, documentation and software testing
 
-💡 Committed to delivering high-quality results, even under pressure.
+## 🔧 What I Do
 
-🔧 Significant experience in front-end and back-end development, framework enhancement, and database optimization.
+I develop new features, maintain existing systems, build integrations, design APIs, optimize database operations and automate delivery processes. I enjoy understanding business needs and turning them into secure, efficient and maintainable technical solutions.
 
-🎓 Graduated in Software Engineering from PUC-PR.
+## 🤝 About Me
 
-🔍 Currently studying react,nodejs.
+I'm proactive, collaborative and always open to new challenges. I value clear communication, teamwork, continuous improvement and high-quality deliveries.
 
-Let's build something awesome together! 😊
+## 🎓 Education
+
+* Bachelor's degree in **Software Engineering** from PUC-PR
+* Postgraduate studies in **Software Engineering, DevOps and Digital Transformation**
+
+## 🌱 Currently Improving
+
+I'm continuously expanding my knowledge in software architecture, cloud computing, artificial intelligence, automated testing and scalable application development.
+
+Let's build something awesome together! 🚀
+
